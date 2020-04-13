@@ -21,7 +21,7 @@ public class main {
         System.out.print("Next Code : ");
         System.out.print(first);
         System.out.print(second);
-        System.out.print(String.format("%06d",num));
+        System.out.print(String.format("%02d",num));
     }
 }
 
